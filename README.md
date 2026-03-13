@@ -27,7 +27,23 @@ The goal is to preprocess the data, detect errors and missing values, and prepar
 3. Handling missing or incorrect values
 4. Exploratory Data Analysis (EDA)
 5. Preparing the dataset for machine learning
+## Results
 
+After cleaning and analyzing the dataset, the data became ready for further analysis and machine learning modeling.
+
+The cleaning process included:
+- Removing incorrect values
+- Handling missing data
+- Preparing features for analysis
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Python Programming
+- Pandas Data Processing
+- Exploratory Data Analysis (EDA)
+  
 ## About Me
 
 Hi, I'm **Malak Nashwan**.
@@ -36,3 +52,5 @@ I am interested in **Data Science and Machine Learning**, and I enjoy working wi
 
 This project demonstrates my skills in **data cleaning, analysis, and Python programming**.
 
+
+  
